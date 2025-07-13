@@ -11,7 +11,7 @@
   "files": [
         {
       "url": "https://github.com/COLLAPSEESSS/211/raw/refs/heads/main/Managed/Assembly-CSharp.dll",
-      "path": "./LunarRust_Data/Managed/Assembly-CSharp.dll"
+      "path": "./FrontRust_Data/Managed/Assembly-CSharp.dll"
     }
   ]
 }
